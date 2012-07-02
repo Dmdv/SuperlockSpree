@@ -38,4 +38,4 @@ gem 'jquery-rails'
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
 gem 'spree'
-gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git'
+gem 'spree_blue_theme', :git => 'https://github.com/spree/spree_blue_theme.git'
