@@ -41,3 +41,4 @@ gem 'jquery-rails'
 
 gem 'spree'
 gem 'spree_blue_theme', :git => 'https://github.com/spree/spree_blue_theme.git'
+# gem 'deface', '~> 0.9.1'
