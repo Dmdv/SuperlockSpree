@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-#gem 'rails', '3.2.3'
+gem 'rails', '3.2.6'
 
-gem 'rails'
+#gem 'rails'
 
 # Bundle edge Rails instead:
 #gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -39,6 +39,6 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
-gem 'spree'
+gem 'spree', '1.1.2'
 gem 'spree_blue_theme', :git => 'https://github.com/spree/spree_blue_theme.git'
 # gem 'deface', '~> 0.9.1'
